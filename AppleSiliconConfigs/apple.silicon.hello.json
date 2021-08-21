@@ -1,15 +1,15 @@
 {
   "userExperience": {
-    "aboutURL": "https://github.com/erikng/hello",
-    "companyLogoPath": "https://raw.githubusercontent.com/erikng/hello/main/demo/icons/company/hellodemo.png",
+    "aboutURL": "https://github.com/cockroachlabs/open-sourced-interview-process/blob/master/firstweeks.md",
+    "companyLogoPath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
     "disableExitScreen": false,
     "disableWelcomeScreen": false,
     "enableWelcomeScreenTimer": true,
     "exitScreenBodyText": "Your Mac has been successfully configured. Below are a few resources to help you get started.",
     "exitScreenItem1ButtonText": "LAUNCH",
     "exitScreenItem1DescriptionText": "Easily install apps and tools provided by your IT department.",
-    "exitScreenItem1ImagePath": "https://raw.githubusercontent.com/erikng/hello/main/demo/icons/exit/exitScreenItem1.png",
-    "exitScreenItem1LaunchURL": "file:///Applications/Managed%20Software%20Center.app",
+    "exitScreenItem1ImagePath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/CRL-SelfService.png",
+    "exitScreenItem1LaunchURL": "file:///Applications/Self%20Service.app",
     "exitScreenItem1Title": "Self Service",
     "exitScreenItem2ButtonText": "OPEN",
     "exitScreenItem2DescriptionText": "Everything you need to know to start using your new Mac.",
@@ -44,15 +44,15 @@
   "deviceStages": [
     {
       "id": 1,
-      "title": "GitHub Desktop",
-      "iconPath": "https://raw.githubusercontent.com/erikng/hello/main/demo/icons/apps/GitHub_Desktop.png",
-      "installedPath": "/Applications/GitHub Desktop.app"
+      "title": "CrowdStrike Falcon",
+      "iconPath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/Falcon.png",
+      "installedPath": "/Applications/Falcon.app"
     },
     {
       "id": 2,
-      "title": "SF Symbols",
-      "iconPath": "https://raw.githubusercontent.com/erikng/hello/main/demo/icons/apps/SF_Symbols.png",
-      "installedPath": "/Applications/SF Symbols.app"
+      "title": "Self Service",
+      "iconPath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/CRL-SelfService.png",
+      "installedPath": "/Applications/Self Service.app"
     },
     {
       "id": 3,
@@ -62,21 +62,21 @@
     },
     {
       "id": 4,
-      "title": "Swift Playgrounds",
-      "iconPath": "https://raw.githubusercontent.com/erikng/hello/main/demo/icons/apps/Swift_Playgrounds.png",
-      "installedPath": "/Applications/Playgrounds.app"
+      "title": "Google Chrome",
+      "iconPath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/Google%20Chrome.png",
+      "installedPath": "/Applications/Google Chrome.app"
     },
     {
       "id": 5,
-      "title": "Visual Studio Code",
+      "title": "Firefox",
       "iconPath": "https://raw.githubusercontent.com/erikng/hello/main/demo/icons/apps/Visual_Studio_Code.png",
-      "installedPath": "/Applications/Visual Studio Code.app"
+      "installedPath": "/Applications/Firefox.app"
     },
     {
       "id": 6,
-      "title": "Xcode",
-      "iconPath": "https://raw.githubusercontent.com/erikng/hello/main/demo/icons/apps/Xcode.png",
-      "installedPath": "/Applications/Xcode.app"
+      "title": "1Password",
+      "iconPath": "https://github.com/cdog2020/helloConfigs/blob/main/Assets/1Password.png?raw=true",
+      "installedPath": "/Applications/1Password 7.app"
     }
   ]
 }
