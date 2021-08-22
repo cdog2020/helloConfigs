@@ -69,7 +69,7 @@
     {
       "id": 5,
       "title": "Firefox",
-      "iconPath": "https://raw.githubusercontent.com/erikng/hello/main/demo/icons/apps/Visual_Studio_Code.png",
+      "iconPath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/Firefox.png",
       "installedPath": "/Applications/Firefox.app"
     },
     {
