@@ -57,12 +57,14 @@
     {
       "id": 3,
       "title": "crl-notify",
-      "iconPath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png"
+      "iconPath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
+      "installedPath": "/Applications/crl-notify.app"
     },
     {
       "id": 4,
       "title": "Cockroach Labs Support App",
-      "iconPath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png"
+      "iconPath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
+      "installedPath": "/Applications/Support.app"
     },
     {
       "id": 5,
