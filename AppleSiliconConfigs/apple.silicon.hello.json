@@ -22,7 +22,7 @@
     "exitScreenItem3LaunchURL": "file:///System/Library/PreferencePanes/SoftwareUpdate.prefPane",
     "exitScreenItem3Title": "Software Updates",
     "exitText": "Setup complete",
-    "provisioningBodyText": "Your Mac is being automatically configured by your organization. This process may take some time to complete. Please don't attempt to restart or shut down the computer unless you are prompted to do so.",
+    "provisioningBodyText": "Your Mac is being automatically configured by Cockroach Labs. This process may take some time to complete. Please don't attempt to restart or shut down the computer unless you are prompted to do so.",
     "provisioningHeaderText": "Setting up your Mac...",
     "quitButtonText": "Quit",
     "restartStyle": "Notify",
