@@ -5,7 +5,7 @@
     "disableExitScreen": false,
     "disableWelcomeScreen": false,
     "enableWelcomeScreenTimer": true,
-    "exitScreenBodyText": "Your Mac has been successfully configured. Below are a few resources to help you get started.",
+    "exitScreenBodyText": "Your Mac has been successfully configured. Please RESTART to complete configuration.",
     "exitScreenItem1ButtonText": "LAUNCH",
     "exitScreenItem1DescriptionText": "Easily install apps and tools provided by your IT department.",
     "exitScreenItem1ImagePath": "https://raw.githubusercontent.com/cdog2020/helloConfigs/main/Assets/CRL-SelfService.png",
